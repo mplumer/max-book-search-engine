@@ -4,7 +4,7 @@
 Book Search Engine is an Apollo and React based application that allows users to browse Google Books API and choose books to save and display in their own, unique account pages. 
 
  ## Link to Deployed Application
-* [Book Search Engine]()
+* [Book Search Engine](https://quiet-cliffs-01279.herokuapp.com/)
 ### User Story
 * AS AN avid reader
 * I WANT to search for new books to read
@@ -24,18 +24,13 @@ Book Search Engine is an Apollo and React based application that allows users to
 ![Screenshot](client/public/assets/images/Screenshot1.png)
  
 ### Installation
-Follow the deployed application link: . 
+Follow the deployed application link: https://quiet-cliffs-01279.herokuapp.com/ 
 
 ### Usage
 Type the title of a book that interests you into the search bar field. After clicking the search button, click the save button of books you want to keep in your wishlist.  
-
-### License
-MIT
   
 ### Contributing
-Book Search Engine is an open source project that was built from cloned, front-end starter code at the University of Texas Web Development Bootcamp, and anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
-
-### Questions
+Book Search Engine is an open source project that was built from cloned, front-end starter code at the from Vanderbilt University Web Development Bootcamp, and anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
     
 ##### Interested in other projects from this developer? Visit the following GitHub page:
 https://github.com/mplumer
